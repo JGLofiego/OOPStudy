@@ -17,4 +17,4 @@ This repository documents my journey learning core OOP concepts through practica
   - Composition vs Inheritance
 
 ---
-🖥️ **Tech Stack**: Java 
+🖥️ **Tech Stack**: Java and Python
