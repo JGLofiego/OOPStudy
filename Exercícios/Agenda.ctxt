@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Agenda
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Agenda\ aqui.\r\n\ \r\n\ @author\ (Jo\u00E3o\ Gabriel\ Lofiego)\ \r\n\ @version\ (11/06/2023)\r\n
+comment1.params=
+comment1.target=Agenda()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Agenda\r\n
+comment2.params=a\ m\ d
+comment2.target=boolean\ adicionarData(int,\ int,\ int)
+numComments=3
